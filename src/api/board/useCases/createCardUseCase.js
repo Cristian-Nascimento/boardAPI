@@ -22,7 +22,7 @@ import mongoose from 'mongoose'
  *
  * // Input params
  * {
- *   "userId": "1234567890abcdef"
+ *   "userId": "12334567890abcdef"
  * }
  *
  * // Output
