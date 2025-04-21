@@ -347,7 +347,7 @@ Open a Pull Request
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙋‍♂️ Support
-For support, chat on linkedin: <https://www.linkedin.com/in/cristian-rosa-nascimento/> or create an issue in the repository.
+For support, chat on <a href="https://www.linkedin.com/in/cristian-rosa-nascimento/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or create an issue in the repository.
 
 ## 🌟 Acknowledgments
 MongoDB team for the excellent database
