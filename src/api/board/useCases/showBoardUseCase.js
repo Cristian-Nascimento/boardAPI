@@ -39,7 +39,7 @@ export const showBoardUseCase = async (id) => {
   try {
     const target = await Board.findOne({ userId: id }).lean();
     if (!target) throw new AppError("Board was not found!", null, 404);
-
+    console.log(`Board found: ${JSON.stringify(target)}`);
     return target;
   } catch (error) {
     return handleError(error);
